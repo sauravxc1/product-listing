@@ -22,29 +22,3 @@ This project is a responsive product listing page built with React.js and Tailwi
 
 - Node.js and npm installed on your machine.
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/product-listing-page.git
-   cd product-listing-page
-
-2. npm install
-
-3. npm start
-
-=============================
-Project Structure
-src/components: Contains the React components (Header, ProductCard, ProductModal).
-src/hooks: Contains custom hooks (useProducts) for fetching data.
-src/App.js: Main application component.
-src/index.css: Tailwind CSS imports and custom styles.
-src/index.js: Entry point of the React application.
-
-
-### Additional Notes
-
-- Customize the GitHub repository URL in the `git clone` command with your actual repository URL.
-- Update the deployment instructions based on the actual hosting service you will be using.
-- Include any additional setup or configuration steps that might be specific to your project.
